@@ -1804,10 +1804,10 @@
     magic-string "^0.26.7"
     react-refresh "^0.14.0"
 
-"@xenova/transformers@^2.8.0":
-  version "2.8.0"
-  resolved "https://registry.yarnpkg.com/@xenova/transformers/-/transformers-2.8.0.tgz#f321b576f152ffeb9f5ff0bcc2d7b16d73e9dcc5"
-  integrity sha512-+6/cC/iJd7A+B+C3OPuiIw3dhisdUqBRD/f8CAoo2wYfHofF9zn46pH/dTLAOPoI2px7L9+bvJoXSKO18TBj2Q==
+"@xenova/transformers@^2.9.0":
+  version "2.10.1"
+  resolved "https://registry.yarnpkg.com/@xenova/transformers/-/transformers-2.10.1.tgz#50eff94fa155f5e6eebc4d49a1e637350e959073"
+  integrity sha512-vUCU3rKEcuH0dSuJzXuESbUPziqh8FvjLVikUh//5SWGcwfdccIfTUhDsS1obbrUTW3ve0CHeJvHnHbk0QTzEA==
   dependencies:
     onnxruntime-web "1.14.0"
     sharp "^0.32.0"
